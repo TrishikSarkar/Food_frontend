@@ -1,0 +1,12 @@
+{
+  "name": "food-frontend",
+  "version": "1.0.0",
+  "description": "Street Flavor — Interactive Street-Food Showcase",
+  "scripts": {
+    "build": "echo 'Build successful'",
+    "start": "node server.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
